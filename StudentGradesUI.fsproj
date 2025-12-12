@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Include="Models.fs"/>
+		<Compile Include="Persistence.fs"/>
+		<Compile Include="CRUD.fs"/>
+		<Compile Include="GradeCalculator.fs"/>
+		<Compile Include="Statistics.fs"/>
+		<Compile Include="Roles.fs"/>
+		<Compile Include="StudentCard.axaml.fs"/>
+		<Compile Include="MainWindow.axaml.fs"/>
+		<Compile Include="App.axaml.fs"/>
+		<Compile Include="Program.fs"/>
+	</ItemGroup>
+
+	
+
+	<ItemGroup>
+		<PackageReference Include="Avalonia" Version="11.3.9"/>
+		<PackageReference Include="Avalonia.Desktop" Version="11.3.9"/>
+		<PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.9"/>
+		<PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.9"/>
+	</ItemGroup>
+
+</Project>
