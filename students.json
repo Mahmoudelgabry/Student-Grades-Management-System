@@ -1,0 +1,3337 @@
+[
+  {
+    "Id": "1",
+    "FirstName": "Yara",
+    "LastName": "Said",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 28
+      },
+      {
+        "Subject": "English",
+        "Score": 17
+      },
+      {
+        "Subject": "Biology",
+        "Score": 94
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "FirstName": "Fatma",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 29
+      },
+      {
+        "Subject": "Music",
+        "Score": 64
+      },
+      {
+        "Subject": "Geography",
+        "Score": 77
+      },
+      {
+        "Subject": "Math",
+        "Score": 3
+      },
+      {
+        "Subject": "Art",
+        "Score": 71
+      },
+      {
+        "Subject": "Computer",
+        "Score": 25
+      },
+      {
+        "Subject": "PE",
+        "Score": 91
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "FirstName": "Yara",
+    "LastName": "Badr",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 89
+      },
+      {
+        "Subject": "Biology",
+        "Score": 54
+      },
+      {
+        "Subject": "Computer",
+        "Score": 43
+      },
+      {
+        "Subject": "English",
+        "Score": 35
+      },
+      {
+        "Subject": "Math",
+        "Score": 19
+      },
+      {
+        "Subject": "PE",
+        "Score": 27
+      },
+      {
+        "Subject": "Physics",
+        "Score": 97
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "FirstName": "Khaled",
+    "LastName": "Said",
+    "Grades": []
+  },
+  {
+    "Id": "5",
+    "FirstName": "Zeinab",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 80
+      },
+      {
+        "Subject": "Physics",
+        "Score": 79
+      },
+      {
+        "Subject": "Geography",
+        "Score": 46
+      },
+      {
+        "Subject": "Economics",
+        "Score": 73
+      },
+      {
+        "Subject": "English",
+        "Score": 24
+      },
+      {
+        "Subject": "Music",
+        "Score": 90
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "FirstName": "Omar",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 48
+      },
+      {
+        "Subject": "Physics",
+        "Score": 35
+      },
+      {
+        "Subject": "Biology",
+        "Score": 58
+      },
+      {
+        "Subject": "Economics",
+        "Score": 81
+      }
+    ]
+  },
+  {
+    "Id": "7",
+    "FirstName": "Youssef",
+    "LastName": "Khalil",
+    "Grades": []
+  },
+  {
+    "Id": "8",
+    "FirstName": "Rana",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 48
+      },
+      {
+        "Subject": "Biology",
+        "Score": 34
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 81
+      },
+      {
+        "Subject": "Computer",
+        "Score": 88
+      }
+    ]
+  },
+  {
+    "Id": "9",
+    "FirstName": "Dina",
+    "LastName": "Nagy",
+    "Grades": [
+      {
+        "Subject": "Math",
+        "Score": 34
+      },
+      {
+        "Subject": "Biology",
+        "Score": 8
+      },
+      {
+        "Subject": "PE",
+        "Score": 27
+      },
+      {
+        "Subject": "History",
+        "Score": 72
+      },
+      {
+        "Subject": "Geography",
+        "Score": 91
+      }
+    ]
+  },
+  {
+    "Id": "10",
+    "FirstName": "Khaled",
+    "LastName": "Fahmy",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 31
+      },
+      {
+        "Subject": "Economics",
+        "Score": 95
+      },
+      {
+        "Subject": "Computer",
+        "Score": 71
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 68
+      },
+      {
+        "Subject": "English",
+        "Score": 33
+      },
+      {
+        "Subject": "Physics",
+        "Score": 95
+      }
+    ]
+  },
+  {
+    "Id": "11",
+    "FirstName": "Samir",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 14
+      },
+      {
+        "Subject": "History",
+        "Score": 19
+      },
+      {
+        "Subject": "Biology",
+        "Score": 80
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 20
+      },
+      {
+        "Subject": "Computer",
+        "Score": 87
+      },
+      {
+        "Subject": "Math",
+        "Score": 54
+      },
+      {
+        "Subject": "PE",
+        "Score": 76
+      }
+    ]
+  },
+  {
+    "Id": "12",
+    "FirstName": "Omar",
+    "LastName": "Fathy",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 92
+      },
+      {
+        "Subject": "Computer",
+        "Score": 14
+      },
+      {
+        "Subject": "Art",
+        "Score": 87
+      },
+      {
+        "Subject": "English",
+        "Score": 68
+      },
+      {
+        "Subject": "Math",
+        "Score": 96
+      },
+      {
+        "Subject": "History",
+        "Score": 34
+      }
+    ]
+  },
+  {
+    "Id": "13",
+    "FirstName": "Noor",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 0
+      },
+      {
+        "Subject": "English",
+        "Score": 92
+      },
+      {
+        "Subject": "Geography",
+        "Score": 92
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 33
+      },
+      {
+        "Subject": "Computer",
+        "Score": 64
+      }
+    ]
+  },
+  {
+    "Id": "14",
+    "FirstName": "Noor",
+    "LastName": "Kamel",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 97
+      },
+      {
+        "Subject": "Economics",
+        "Score": 20
+      },
+      {
+        "Subject": "English",
+        "Score": 69
+      },
+      {
+        "Subject": "Art",
+        "Score": 99
+      },
+      {
+        "Subject": "Biology",
+        "Score": 67
+      },
+      {
+        "Subject": "PE",
+        "Score": 0
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 76
+      }
+    ]
+  },
+  {
+    "Id": "15",
+    "FirstName": "Khaled",
+    "LastName": "Yassin",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 30
+      },
+      {
+        "Subject": "History",
+        "Score": 7
+      },
+      {
+        "Subject": "English",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "16",
+    "FirstName": "Maha",
+    "LastName": "Morsi",
+    "Grades": []
+  },
+  {
+    "Id": "17",
+    "FirstName": "Youssef",
+    "LastName": "Ibrahim",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 69
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 96
+      },
+      {
+        "Subject": "English",
+        "Score": 93
+      },
+      {
+        "Subject": "PE",
+        "Score": 88
+      },
+      {
+        "Subject": "Geography",
+        "Score": 25
+      },
+      {
+        "Subject": "Physics",
+        "Score": 91
+      }
+    ]
+  },
+  {
+    "Id": "18",
+    "FirstName": "Laila",
+    "LastName": "Fathy",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 28
+      },
+      {
+        "Subject": "Art",
+        "Score": 8
+      },
+      {
+        "Subject": "PE",
+        "Score": 43
+      },
+      {
+        "Subject": "Physics",
+        "Score": 2
+      },
+      {
+        "Subject": "Biology",
+        "Score": 75
+      }
+    ]
+  },
+  {
+    "Id": "19",
+    "FirstName": "Dina",
+    "LastName": "Nagy",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 42
+      },
+      {
+        "Subject": "Math",
+        "Score": 9
+      },
+      {
+        "Subject": "Physics",
+        "Score": 65
+      },
+      {
+        "Subject": "Economics",
+        "Score": 30
+      },
+      {
+        "Subject": "PE",
+        "Score": 35
+      },
+      {
+        "Subject": "Art",
+        "Score": 85
+      },
+      {
+        "Subject": "Geography",
+        "Score": 62
+      }
+    ]
+  },
+  {
+    "Id": "20",
+    "FirstName": "Ali",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 31
+      },
+      {
+        "Subject": "Music",
+        "Score": 100
+      },
+      {
+        "Subject": "Economics",
+        "Score": 60
+      },
+      {
+        "Subject": "Computer",
+        "Score": 52
+      }
+    ]
+  },
+  {
+    "Id": "21",
+    "FirstName": "Ali",
+    "LastName": "Said",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 54
+      },
+      {
+        "Subject": "Geography",
+        "Score": 52
+      },
+      {
+        "Subject": "History",
+        "Score": 59
+      }
+    ]
+  },
+  {
+    "Id": "22",
+    "FirstName": "Rami",
+    "LastName": "Ehab",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 7
+      },
+      {
+        "Subject": "PE",
+        "Score": 51
+      },
+      {
+        "Subject": "Physics",
+        "Score": 93
+      }
+    ]
+  },
+  {
+    "Id": "23",
+    "FirstName": "Khaled",
+    "LastName": "Sabry",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 68
+      },
+      {
+        "Subject": "PE",
+        "Score": 57
+      },
+      {
+        "Subject": "Economics",
+        "Score": 17
+      }
+    ]
+  },
+  {
+    "Id": "24",
+    "FirstName": "Hana",
+    "LastName": "Kamel",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 6
+      },
+      {
+        "Subject": "Biology",
+        "Score": 83
+      },
+      {
+        "Subject": "Physics",
+        "Score": 69
+      },
+      {
+        "Subject": "PE",
+        "Score": 1
+      },
+      {
+        "Subject": "Music",
+        "Score": 11
+      }
+    ]
+  },
+  {
+    "Id": "25",
+    "FirstName": "Aly",
+    "LastName": "Hussein",
+    "Grades": []
+  },
+  {
+    "Id": "26",
+    "FirstName": "Ibrahim",
+    "LastName": "Ali",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 24
+      },
+      {
+        "Subject": "Computer",
+        "Score": 37
+      },
+      {
+        "Subject": "PE",
+        "Score": 27
+      },
+      {
+        "Subject": "Geography",
+        "Score": 7
+      },
+      {
+        "Subject": "Economics",
+        "Score": 74
+      },
+      {
+        "Subject": "Physics",
+        "Score": 94
+      },
+      {
+        "Subject": "html",
+        "Score": 100
+      }
+    ]
+  },
+  {
+    "Id": "27",
+    "FirstName": "Dina",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "Math",
+        "Score": 7
+      },
+      {
+        "Subject": "PE",
+        "Score": 65
+      },
+      {
+        "Subject": "Music",
+        "Score": 10
+      },
+      {
+        "Subject": "Computer",
+        "Score": 23
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 8
+      }
+    ]
+  },
+  {
+    "Id": "28",
+    "FirstName": "Rana",
+    "LastName": "Mahmoud",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 74
+      },
+      {
+        "Subject": "Physics",
+        "Score": 76
+      },
+      {
+        "Subject": "Music",
+        "Score": 5
+      },
+      {
+        "Subject": "Biology",
+        "Score": 79
+      }
+    ]
+  },
+  {
+    "Id": "29",
+    "FirstName": "Omar",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 40
+      },
+      {
+        "Subject": "Art",
+        "Score": 30
+      },
+      {
+        "Subject": "History",
+        "Score": 33
+      },
+      {
+        "Subject": "English",
+        "Score": 50
+      },
+      {
+        "Subject": "Biology",
+        "Score": 16
+      },
+      {
+        "Subject": "PE",
+        "Score": 85
+      },
+      {
+        "Subject": "Geography",
+        "Score": 82
+      }
+    ]
+  },
+  {
+    "Id": "30",
+    "FirstName": "Laila",
+    "LastName": "Sami",
+    "Grades": []
+  },
+  {
+    "Id": "31",
+    "FirstName": "Aly",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 20
+      },
+      {
+        "Subject": "History",
+        "Score": 56
+      },
+      {
+        "Subject": "English",
+        "Score": 69
+      }
+    ]
+  },
+  {
+    "Id": "32",
+    "FirstName": "Salma",
+    "LastName": "Farouk",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 17
+      },
+      {
+        "Subject": "Art",
+        "Score": 33
+      },
+      {
+        "Subject": "Math",
+        "Score": 14
+      },
+      {
+        "Subject": "PE",
+        "Score": 13
+      },
+      {
+        "Subject": "English",
+        "Score": 95
+      },
+      {
+        "Subject": "History",
+        "Score": 70
+      },
+      {
+        "Subject": "Music",
+        "Score": 19
+      }
+    ]
+  },
+  {
+    "Id": "33",
+    "FirstName": "Hassan",
+    "LastName": "Farouk",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 11
+      },
+      {
+        "Subject": "History",
+        "Score": 81
+      },
+      {
+        "Subject": "PE",
+        "Score": 54
+      },
+      {
+        "Subject": "English",
+        "Score": 35
+      },
+      {
+        "Subject": "Computer",
+        "Score": 5
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 0
+      },
+      {
+        "Subject": "Math",
+        "Score": 42
+      }
+    ]
+  },
+  {
+    "Id": "34",
+    "FirstName": "Noor",
+    "LastName": "Ibrahim",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 14
+      },
+      {
+        "Subject": "Computer",
+        "Score": 9
+      },
+      {
+        "Subject": "Art",
+        "Score": 88
+      },
+      {
+        "Subject": "Geography",
+        "Score": 19
+      },
+      {
+        "Subject": "Math",
+        "Score": 69
+      }
+    ]
+  },
+  {
+    "Id": "35",
+    "FirstName": "Mona",
+    "LastName": "Makram",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 5
+      },
+      {
+        "Subject": "Art",
+        "Score": 39
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 46
+      },
+      {
+        "Subject": "Geography",
+        "Score": 5
+      },
+      {
+        "Subject": "PE",
+        "Score": 45
+      }
+    ]
+  },
+  {
+    "Id": "36",
+    "FirstName": "Ali",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 52
+      },
+      {
+        "Subject": "Physics",
+        "Score": 79
+      },
+      {
+        "Subject": "History",
+        "Score": 95
+      },
+      {
+        "Subject": "Art",
+        "Score": 19
+      }
+    ]
+  },
+  {
+    "Id": "37",
+    "FirstName": "Aly",
+    "LastName": "Lotfy",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 22
+      },
+      {
+        "Subject": "PE",
+        "Score": 94
+      },
+      {
+        "Subject": "Geography",
+        "Score": 42
+      },
+      {
+        "Subject": "Math",
+        "Score": 100
+      }
+    ]
+  },
+  {
+    "Id": "38",
+    "FirstName": "Aly",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 4
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 60
+      },
+      {
+        "Subject": "Physics",
+        "Score": 28
+      },
+      {
+        "Subject": "Geography",
+        "Score": 25
+      }
+    ]
+  },
+  {
+    "Id": "39",
+    "FirstName": "Youssef",
+    "LastName": "Lotfy",
+    "Grades": []
+  },
+  {
+    "Id": "40",
+    "FirstName": "Hassan",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 22
+      },
+      {
+        "Subject": "Economics",
+        "Score": 74
+      },
+      {
+        "Subject": "Art",
+        "Score": 33
+      },
+      {
+        "Subject": "History",
+        "Score": 4
+      },
+      {
+        "Subject": "Math",
+        "Score": 13
+      },
+      {
+        "Subject": "Computer",
+        "Score": 76
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 55
+      }
+    ]
+  },
+  {
+    "Id": "41",
+    "FirstName": "Mariam",
+    "LastName": "Ehab",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 73
+      },
+      {
+        "Subject": "Music",
+        "Score": 24
+      },
+      {
+        "Subject": "Art",
+        "Score": 32
+      },
+      {
+        "Subject": "Physics",
+        "Score": 5
+      },
+      {
+        "Subject": "PE",
+        "Score": 90
+      }
+    ]
+  },
+  {
+    "Id": "42",
+    "FirstName": "Hana",
+    "LastName": "Ali",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 42
+      },
+      {
+        "Subject": "Economics",
+        "Score": 79
+      },
+      {
+        "Subject": "Biology",
+        "Score": 40
+      },
+      {
+        "Subject": "History",
+        "Score": 84
+      },
+      {
+        "Subject": "Geography",
+        "Score": 15
+      },
+      {
+        "Subject": "Math",
+        "Score": 92
+      },
+      {
+        "Subject": "PE",
+        "Score": 38
+      }
+    ]
+  },
+  {
+    "Id": "43",
+    "FirstName": "Karim",
+    "LastName": "Farouk",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 53
+      },
+      {
+        "Subject": "Geography",
+        "Score": 85
+      },
+      {
+        "Subject": "English",
+        "Score": 48
+      },
+      {
+        "Subject": "Art",
+        "Score": 86
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 95
+      },
+      {
+        "Subject": "Physics",
+        "Score": 22
+      }
+    ]
+  },
+  {
+    "Id": "44",
+    "FirstName": "Rana",
+    "LastName": "Morsi",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 26
+      },
+      {
+        "Subject": "Art",
+        "Score": 55
+      },
+      {
+        "Subject": "Math",
+        "Score": 100
+      },
+      {
+        "Subject": "English",
+        "Score": 74
+      },
+      {
+        "Subject": "Economics",
+        "Score": 77
+      }
+    ]
+  },
+  {
+    "Id": "45",
+    "FirstName": "Yara",
+    "LastName": "Mostafa",
+    "Grades": []
+  },
+  {
+    "Id": "46",
+    "FirstName": "Mahmoud",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 18
+      },
+      {
+        "Subject": "Physics",
+        "Score": 3
+      },
+      {
+        "Subject": "Biology",
+        "Score": 5
+      },
+      {
+        "Subject": "English",
+        "Score": 31
+      },
+      {
+        "Subject": "Music",
+        "Score": 60
+      },
+      {
+        "Subject": "Geography",
+        "Score": 78
+      },
+      {
+        "Subject": "Economics",
+        "Score": 98
+      }
+    ]
+  },
+  {
+    "Id": "47",
+    "FirstName": "Omar",
+    "LastName": "Sami",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 31
+      },
+      {
+        "Subject": "Music",
+        "Score": 18
+      },
+      {
+        "Subject": "Biology",
+        "Score": 83
+      },
+      {
+        "Subject": "Geography",
+        "Score": 88
+      },
+      {
+        "Subject": "Computer",
+        "Score": 0
+      },
+      {
+        "Subject": "PE",
+        "Score": 96
+      }
+    ]
+  },
+  {
+    "Id": "48",
+    "FirstName": "Rami",
+    "LastName": "Hussein",
+    "Grades": []
+  },
+  {
+    "Id": "49",
+    "FirstName": "Mona",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 85
+      },
+      {
+        "Subject": "Computer",
+        "Score": 67
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 71
+      },
+      {
+        "Subject": "Economics",
+        "Score": 76
+      }
+    ]
+  },
+  {
+    "Id": "50",
+    "FirstName": "Khaled",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 95
+      },
+      {
+        "Subject": "Art",
+        "Score": 60
+      },
+      {
+        "Subject": "Geography",
+        "Score": 57
+      },
+      {
+        "Subject": "Economics",
+        "Score": 33
+      },
+      {
+        "Subject": "Computer",
+        "Score": 96
+      },
+      {
+        "Subject": "Physics",
+        "Score": 31
+      }
+    ]
+  },
+  {
+    "Id": "51",
+    "FirstName": "Youssef",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 9
+      },
+      {
+        "Subject": "Computer",
+        "Score": 91
+      },
+      {
+        "Subject": "Biology",
+        "Score": 36
+      },
+      {
+        "Subject": "English",
+        "Score": 30
+      },
+      {
+        "Subject": "Economics",
+        "Score": 34
+      }
+    ]
+  },
+  {
+    "Id": "52",
+    "FirstName": "Khaled",
+    "LastName": "Mostafa",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 90
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 27
+      },
+      {
+        "Subject": "Economics",
+        "Score": 8
+      },
+      {
+        "Subject": "Biology",
+        "Score": 53
+      },
+      {
+        "Subject": "Geography",
+        "Score": 52
+      },
+      {
+        "Subject": "History",
+        "Score": 42
+      },
+      {
+        "Subject": "PE",
+        "Score": 69
+      }
+    ]
+  },
+  {
+    "Id": "53",
+    "FirstName": "Tamer",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 98
+      },
+      {
+        "Subject": "Geography",
+        "Score": 74
+      },
+      {
+        "Subject": "Economics",
+        "Score": 89
+      }
+    ]
+  },
+  {
+    "Id": "54",
+    "FirstName": "Ahmed",
+    "LastName": "Gamal",
+    "Grades": []
+  },
+  {
+    "Id": "55",
+    "FirstName": "Nora",
+    "LastName": "Nagy",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 85
+      },
+      {
+        "Subject": "Computer",
+        "Score": 86
+      },
+      {
+        "Subject": "Math",
+        "Score": 51
+      },
+      {
+        "Subject": "PE",
+        "Score": 92
+      },
+      {
+        "Subject": "History",
+        "Score": 21
+      }
+    ]
+  },
+  {
+    "Id": "56",
+    "FirstName": "Youssef",
+    "LastName": "Sami",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 75
+      },
+      {
+        "Subject": "Art",
+        "Score": 72
+      },
+      {
+        "Subject": "Math",
+        "Score": 84
+      },
+      {
+        "Subject": "Geography",
+        "Score": 3
+      }
+    ]
+  },
+  {
+    "Id": "57",
+    "FirstName": "Omar",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 41
+      },
+      {
+        "Subject": "Computer",
+        "Score": 27
+      },
+      {
+        "Subject": "PE",
+        "Score": 58
+      },
+      {
+        "Subject": "Math",
+        "Score": 41
+      },
+      {
+        "Subject": "English",
+        "Score": 43
+      },
+      {
+        "Subject": "Biology",
+        "Score": 97
+      }
+    ]
+  },
+  {
+    "Id": "58",
+    "FirstName": "Maha",
+    "LastName": "Fathy",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 95
+      },
+      {
+        "Subject": "English",
+        "Score": 69
+      },
+      {
+        "Subject": "Physics",
+        "Score": 6
+      },
+      {
+        "Subject": "Computer",
+        "Score": 44
+      },
+      {
+        "Subject": "Math",
+        "Score": 28
+      }
+    ]
+  },
+  {
+    "Id": "59",
+    "FirstName": "Yara",
+    "LastName": "Mahmoud",
+    "Grades": [
+      {
+        "Subject": "Math",
+        "Score": 2
+      },
+      {
+        "Subject": "Biology",
+        "Score": 79
+      },
+      {
+        "Subject": "Economics",
+        "Score": 19
+      }
+    ]
+  },
+  {
+    "Id": "60",
+    "FirstName": "Nada",
+    "LastName": "Ibrahim",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 32
+      },
+      {
+        "Subject": "Physics",
+        "Score": 98
+      },
+      {
+        "Subject": "Music",
+        "Score": 47
+      },
+      {
+        "Subject": "Biology",
+        "Score": 21
+      },
+      {
+        "Subject": "Computer",
+        "Score": 77
+      },
+      {
+        "Subject": "History",
+        "Score": 77
+      }
+    ]
+  },
+  {
+    "Id": "61",
+    "FirstName": "Adham",
+    "LastName": "Badr",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 74
+      },
+      {
+        "Subject": "English",
+        "Score": 3
+      },
+      {
+        "Subject": "Physics",
+        "Score": 39
+      }
+    ]
+  },
+  {
+    "Id": "62",
+    "FirstName": "Samir",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 98
+      },
+      {
+        "Subject": "Biology",
+        "Score": 38
+      },
+      {
+        "Subject": "Physics",
+        "Score": 87
+      },
+      {
+        "Subject": "Economics",
+        "Score": 76
+      },
+      {
+        "Subject": "Music",
+        "Score": 15
+      },
+      {
+        "Subject": "History",
+        "Score": 72
+      }
+    ]
+  },
+  {
+    "Id": "63",
+    "FirstName": "Zeinab",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 1
+      },
+      {
+        "Subject": "Geography",
+        "Score": 53
+      },
+      {
+        "Subject": "History",
+        "Score": 62
+      },
+      {
+        "Subject": "Physics",
+        "Score": 13
+      },
+      {
+        "Subject": "Music",
+        "Score": 55
+      }
+    ]
+  },
+  {
+    "Id": "64",
+    "FirstName": "Mariam",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 68
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 99
+      },
+      {
+        "Subject": "Geography",
+        "Score": 61
+      },
+      {
+        "Subject": "Economics",
+        "Score": 59
+      },
+      {
+        "Subject": "English",
+        "Score": 55
+      },
+      {
+        "Subject": "Computer",
+        "Score": 93
+      }
+    ]
+  },
+  {
+    "Id": "65",
+    "FirstName": "Samir",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 96
+      },
+      {
+        "Subject": "Physics",
+        "Score": 59
+      },
+      {
+        "Subject": "English",
+        "Score": 72
+      },
+      {
+        "Subject": "Computer",
+        "Score": 78
+      },
+      {
+        "Subject": "PE",
+        "Score": 85
+      }
+    ]
+  },
+  {
+    "Id": "66",
+    "FirstName": "Ibrahim",
+    "LastName": "Mostafa",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 62
+      },
+      {
+        "Subject": "History",
+        "Score": 27
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 45
+      }
+    ]
+  },
+  {
+    "Id": "67",
+    "FirstName": "Zeinab",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 66
+      },
+      {
+        "Subject": "Music",
+        "Score": 24
+      },
+      {
+        "Subject": "PE",
+        "Score": 10
+      },
+      {
+        "Subject": "Art",
+        "Score": 30
+      },
+      {
+        "Subject": "Math",
+        "Score": 92
+      }
+    ]
+  },
+  {
+    "Id": "68",
+    "FirstName": "Hana",
+    "LastName": "Yassin",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 28
+      },
+      {
+        "Subject": "Computer",
+        "Score": 51
+      },
+      {
+        "Subject": "Economics",
+        "Score": 88
+      },
+      {
+        "Subject": "Music",
+        "Score": 31
+      },
+      {
+        "Subject": "Math",
+        "Score": 39
+      },
+      {
+        "Subject": "Art",
+        "Score": 84
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 74
+      }
+    ]
+  },
+  {
+    "Id": "69",
+    "FirstName": "Mariam",
+    "LastName": "Yassin",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 58
+      },
+      {
+        "Subject": "History",
+        "Score": 34
+      },
+      {
+        "Subject": "Geography",
+        "Score": 39
+      },
+      {
+        "Subject": "PE",
+        "Score": 32
+      },
+      {
+        "Subject": "Economics",
+        "Score": 29
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 15
+      },
+      {
+        "Subject": "Computer",
+        "Score": 92
+      }
+    ]
+  },
+  {
+    "Id": "70",
+    "FirstName": "Ali",
+    "LastName": "Mostafa",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 24
+      },
+      {
+        "Subject": "Art",
+        "Score": 27
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 94
+      }
+    ]
+  },
+  {
+    "Id": "71",
+    "FirstName": "Nora",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 46
+      },
+      {
+        "Subject": "Music",
+        "Score": 22
+      },
+      {
+        "Subject": "English",
+        "Score": 38
+      },
+      {
+        "Subject": "Physics",
+        "Score": 1
+      },
+      {
+        "Subject": "Biology",
+        "Score": 90
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 68
+      },
+      {
+        "Subject": "PE",
+        "Score": 16
+      }
+    ]
+  },
+  {
+    "Id": "72",
+    "FirstName": "Hassan",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 81
+      },
+      {
+        "Subject": "English",
+        "Score": 96
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 62
+      }
+    ]
+  },
+  {
+    "Id": "73",
+    "FirstName": "Fatma",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 61
+      },
+      {
+        "Subject": "English",
+        "Score": 56
+      },
+      {
+        "Subject": "Computer",
+        "Score": 43
+      }
+    ]
+  },
+  {
+    "Id": "74",
+    "FirstName": "Sara",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 9
+      },
+      {
+        "Subject": "Physics",
+        "Score": 73
+      },
+      {
+        "Subject": "Economics",
+        "Score": 80
+      },
+      {
+        "Subject": "Geography",
+        "Score": 87
+      },
+      {
+        "Subject": "PE",
+        "Score": 6
+      }
+    ]
+  },
+  {
+    "Id": "75",
+    "FirstName": "Youssef",
+    "LastName": "Ibrahim",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 79
+      },
+      {
+        "Subject": "Physics",
+        "Score": 28
+      },
+      {
+        "Subject": "Biology",
+        "Score": 99
+      },
+      {
+        "Subject": "Economics",
+        "Score": 66
+      },
+      {
+        "Subject": "Geography",
+        "Score": 48
+      },
+      {
+        "Subject": "PE",
+        "Score": 57
+      },
+      {
+        "Subject": "Computer",
+        "Score": 56
+      }
+    ]
+  },
+  {
+    "Id": "76",
+    "FirstName": "Laila",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 80
+      },
+      {
+        "Subject": "English",
+        "Score": 27
+      },
+      {
+        "Subject": "Music",
+        "Score": 33
+      },
+      {
+        "Subject": "Math",
+        "Score": 84
+      },
+      {
+        "Subject": "Physics",
+        "Score": 10
+      },
+      {
+        "Subject": "PE",
+        "Score": 20
+      },
+      {
+        "Subject": "Computer",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "77",
+    "FirstName": "Sara",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 57
+      },
+      {
+        "Subject": "Math",
+        "Score": 88
+      },
+      {
+        "Subject": "Geography",
+        "Score": 76
+      }
+    ]
+  },
+  {
+    "Id": "78",
+    "FirstName": "Nora",
+    "LastName": "Farouk",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 89
+      },
+      {
+        "Subject": "English",
+        "Score": 58
+      },
+      {
+        "Subject": "Economics",
+        "Score": 9
+      }
+    ]
+  },
+  {
+    "Id": "79",
+    "FirstName": "Mahmoud",
+    "LastName": "Nagy",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 69
+      },
+      {
+        "Subject": "Music",
+        "Score": 28
+      },
+      {
+        "Subject": "Biology",
+        "Score": 82
+      },
+      {
+        "Subject": "Geography",
+        "Score": 19
+      },
+      {
+        "Subject": "Physics",
+        "Score": 34
+      }
+    ]
+  },
+  {
+    "Id": "80",
+    "FirstName": "Youssef",
+    "LastName": "Ibrahim",
+    "Grades": [
+      {
+        "Subject": "Math",
+        "Score": 76
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 95
+      },
+      {
+        "Subject": "English",
+        "Score": 72
+      }
+    ]
+  },
+  {
+    "Id": "81",
+    "FirstName": "Aly",
+    "LastName": "Farouk",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 69
+      },
+      {
+        "Subject": "Computer",
+        "Score": 63
+      },
+      {
+        "Subject": "English",
+        "Score": 56
+      },
+      {
+        "Subject": "Geography",
+        "Score": 10
+      },
+      {
+        "Subject": "Music",
+        "Score": 76
+      },
+      {
+        "Subject": "Economics",
+        "Score": 5
+      }
+    ]
+  },
+  {
+    "Id": "82",
+    "FirstName": "Maha",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 86
+      },
+      {
+        "Subject": "English",
+        "Score": 73
+      },
+      {
+        "Subject": "Math",
+        "Score": 75
+      },
+      {
+        "Subject": "Physics",
+        "Score": 2
+      },
+      {
+        "Subject": "Biology",
+        "Score": 97
+      }
+    ]
+  },
+  {
+    "Id": "83",
+    "FirstName": "Mahmoud",
+    "LastName": "Makram",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 35
+      },
+      {
+        "Subject": "Math",
+        "Score": 23
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 74
+      },
+      {
+        "Subject": "Computer",
+        "Score": 55
+      },
+      {
+        "Subject": "Art",
+        "Score": 81
+      }
+    ]
+  },
+  {
+    "Id": "84",
+    "FirstName": "Youssef",
+    "LastName": "Yassin",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 42
+      },
+      {
+        "Subject": "History",
+        "Score": 41
+      },
+      {
+        "Subject": "Geography",
+        "Score": 85
+      }
+    ]
+  },
+  {
+    "Id": "85",
+    "FirstName": "Fatma",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 84
+      },
+      {
+        "Subject": "Geography",
+        "Score": 51
+      },
+      {
+        "Subject": "Computer",
+        "Score": 97
+      },
+      {
+        "Subject": "English",
+        "Score": 70
+      }
+    ]
+  },
+  {
+    "Id": "86",
+    "FirstName": "Mona",
+    "LastName": "Sami",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 14
+      },
+      {
+        "Subject": "English",
+        "Score": 98
+      },
+      {
+        "Subject": "PE",
+        "Score": 51
+      }
+    ]
+  },
+  {
+    "Id": "87",
+    "FirstName": "Rami",
+    "LastName": "Sharif",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 52
+      },
+      {
+        "Subject": "Art",
+        "Score": 6
+      },
+      {
+        "Subject": "Computer",
+        "Score": 24
+      }
+    ]
+  },
+  {
+    "Id": "88",
+    "FirstName": "Karim",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 16
+      },
+      {
+        "Subject": "Economics",
+        "Score": 36
+      },
+      {
+        "Subject": "PE",
+        "Score": 56
+      },
+      {
+        "Subject": "Math",
+        "Score": 89
+      },
+      {
+        "Subject": "Biology",
+        "Score": 62
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 15
+      },
+      {
+        "Subject": "English",
+        "Score": 3
+      }
+    ]
+  },
+  {
+    "Id": "89",
+    "FirstName": "Yara",
+    "LastName": "Taher",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 1
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 70
+      },
+      {
+        "Subject": "English",
+        "Score": 52
+      },
+      {
+        "Subject": "Art",
+        "Score": 11
+      }
+    ]
+  },
+  {
+    "Id": "90",
+    "FirstName": "Nada",
+    "LastName": "Makram",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 63
+      },
+      {
+        "Subject": "Physics",
+        "Score": 91
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 37
+      }
+    ]
+  },
+  {
+    "Id": "91",
+    "FirstName": "Karim",
+    "LastName": "Badr",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 70
+      },
+      {
+        "Subject": "Computer",
+        "Score": 18
+      },
+      {
+        "Subject": "Economics",
+        "Score": 49
+      },
+      {
+        "Subject": "Biology",
+        "Score": 24
+      },
+      {
+        "Subject": "Music",
+        "Score": 76
+      }
+    ]
+  },
+  {
+    "Id": "92",
+    "FirstName": "Karim",
+    "LastName": "Ehab",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 100
+      },
+      {
+        "Subject": "English",
+        "Score": 64
+      },
+      {
+        "Subject": "Geography",
+        "Score": 34
+      },
+      {
+        "Subject": "History",
+        "Score": 0
+      }
+    ]
+  },
+  {
+    "Id": "93",
+    "FirstName": "Laila",
+    "LastName": "Ehab",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 68
+      },
+      {
+        "Subject": "PE",
+        "Score": 61
+      },
+      {
+        "Subject": "Computer",
+        "Score": 44
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 42
+      },
+      {
+        "Subject": "Economics",
+        "Score": 70
+      }
+    ]
+  },
+  {
+    "Id": "94",
+    "FirstName": "Noor",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 99
+      },
+      {
+        "Subject": "History",
+        "Score": 52
+      },
+      {
+        "Subject": "Biology",
+        "Score": 5
+      },
+      {
+        "Subject": "Music",
+        "Score": 40
+      },
+      {
+        "Subject": "Geography",
+        "Score": 95
+      },
+      {
+        "Subject": "Physics",
+        "Score": 60
+      }
+    ]
+  },
+  {
+    "Id": "95",
+    "FirstName": "Salma",
+    "LastName": "Lotfy",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 64
+      },
+      {
+        "Subject": "Economics",
+        "Score": 75
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 42
+      },
+      {
+        "Subject": "Computer",
+        "Score": 12
+      },
+      {
+        "Subject": "Math",
+        "Score": 56
+      },
+      {
+        "Subject": "Physics",
+        "Score": 12
+      }
+    ]
+  },
+  {
+    "Id": "96",
+    "FirstName": "Karim",
+    "LastName": "Lotfy",
+    "Grades": [
+      {
+        "Subject": "Math",
+        "Score": 100
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 33
+      },
+      {
+        "Subject": "Geography",
+        "Score": 43
+      },
+      {
+        "Subject": "Economics",
+        "Score": 79
+      },
+      {
+        "Subject": "Physics",
+        "Score": 88
+      },
+      {
+        "Subject": "Biology",
+        "Score": 50
+      }
+    ]
+  },
+  {
+    "Id": "97",
+    "FirstName": "Yara",
+    "LastName": "Mahmoud",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 69
+      },
+      {
+        "Subject": "Art",
+        "Score": 4
+      },
+      {
+        "Subject": "Geography",
+        "Score": 79
+      },
+      {
+        "Subject": "History",
+        "Score": 8
+      },
+      {
+        "Subject": "Computer",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "98",
+    "FirstName": "Yara",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 56
+      },
+      {
+        "Subject": "Physics",
+        "Score": 21
+      },
+      {
+        "Subject": "Geography",
+        "Score": 88
+      },
+      {
+        "Subject": "Economics",
+        "Score": 38
+      },
+      {
+        "Subject": "Art",
+        "Score": 3
+      }
+    ]
+  },
+  {
+    "Id": "99",
+    "FirstName": "Mona",
+    "LastName": "Mostafa",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 55
+      },
+      {
+        "Subject": "History",
+        "Score": 18
+      },
+      {
+        "Subject": "Economics",
+        "Score": 31
+      }
+    ]
+  },
+  {
+    "Id": "100",
+    "FirstName": "Karim",
+    "LastName": "Gaber",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 79
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 87
+      },
+      {
+        "Subject": "PE",
+        "Score": 30
+      },
+      {
+        "Subject": "Music",
+        "Score": 63
+      },
+      {
+        "Subject": "Physics",
+        "Score": 74
+      },
+      {
+        "Subject": "English",
+        "Score": 18
+      },
+      {
+        "Subject": "Biology",
+        "Score": 29
+      }
+    ]
+  },
+  {
+    "Id": "101",
+    "FirstName": "Tamer",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 86
+      },
+      {
+        "Subject": "English",
+        "Score": 69
+      },
+      {
+        "Subject": "Math",
+        "Score": 20
+      },
+      {
+        "Subject": "PE",
+        "Score": 9
+      },
+      {
+        "Subject": "Economics",
+        "Score": 56
+      }
+    ]
+  },
+  {
+    "Id": "102",
+    "FirstName": "Mariam",
+    "LastName": "Morsi",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 25
+      },
+      {
+        "Subject": "Geography",
+        "Score": 49
+      },
+      {
+        "Subject": "English",
+        "Score": 61
+      },
+      {
+        "Subject": "Computer",
+        "Score": 13
+      },
+      {
+        "Subject": "Music",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "103",
+    "FirstName": "Ibrahim",
+    "LastName": "Morsi",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 35
+      },
+      {
+        "Subject": "English",
+        "Score": 1
+      },
+      {
+        "Subject": "Economics",
+        "Score": 72
+      },
+      {
+        "Subject": "Math",
+        "Score": 87
+      },
+      {
+        "Subject": "Geography",
+        "Score": 99
+      }
+    ]
+  },
+  {
+    "Id": "104",
+    "FirstName": "Adham",
+    "LastName": "Hassan",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 24
+      },
+      {
+        "Subject": "Computer",
+        "Score": 79
+      },
+      {
+        "Subject": "English",
+        "Score": 32
+      },
+      {
+        "Subject": "Biology",
+        "Score": 86
+      },
+      {
+        "Subject": "History",
+        "Score": 96
+      },
+      {
+        "Subject": "Physics",
+        "Score": 92
+      },
+      {
+        "Subject": "Economics",
+        "Score": 98
+      }
+    ]
+  },
+  {
+    "Id": "105",
+    "FirstName": "Mahmoud",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 100
+      },
+      {
+        "Subject": "Physics",
+        "Score": 56
+      },
+      {
+        "Subject": "Math",
+        "Score": 4
+      },
+      {
+        "Subject": "English",
+        "Score": 74
+      }
+    ]
+  },
+  {
+    "Id": "106",
+    "FirstName": "Mariam",
+    "LastName": "Ehab",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 22
+      },
+      {
+        "Subject": "English",
+        "Score": 25
+      },
+      {
+        "Subject": "History",
+        "Score": 16
+      },
+      {
+        "Subject": "Geography",
+        "Score": 100
+      }
+    ]
+  },
+  {
+    "Id": "107",
+    "FirstName": "Dina",
+    "LastName": "Atif",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 61
+      },
+      {
+        "Subject": "PE",
+        "Score": 37
+      },
+      {
+        "Subject": "English",
+        "Score": 95
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 43
+      },
+      {
+        "Subject": "Music",
+        "Score": 14
+      }
+    ]
+  },
+  {
+    "Id": "108",
+    "FirstName": "Tamer",
+    "LastName": "Mahmoud",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 46
+      },
+      {
+        "Subject": "Economics",
+        "Score": 11
+      },
+      {
+        "Subject": "Geography",
+        "Score": 50
+      },
+      {
+        "Subject": "Art",
+        "Score": 1
+      }
+    ]
+  },
+  {
+    "Id": "109",
+    "FirstName": "Hassan",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 74
+      },
+      {
+        "Subject": "History",
+        "Score": 48
+      },
+      {
+        "Subject": "English",
+        "Score": 81
+      }
+    ]
+  },
+  {
+    "Id": "110",
+    "FirstName": "Mariam",
+    "LastName": "Said",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 41
+      },
+      {
+        "Subject": "Math",
+        "Score": 78
+      },
+      {
+        "Subject": "Music",
+        "Score": 28
+      },
+      {
+        "Subject": "Art",
+        "Score": 82
+      }
+    ]
+  },
+  {
+    "Id": "111",
+    "FirstName": "Omar",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 4
+      },
+      {
+        "Subject": "English",
+        "Score": 38
+      },
+      {
+        "Subject": "Geography",
+        "Score": 63
+      },
+      {
+        "Subject": "Physics",
+        "Score": 14
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 12
+      },
+      {
+        "Subject": "Math",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "112",
+    "FirstName": "Maha",
+    "LastName": "Zaki",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 53
+      },
+      {
+        "Subject": "Computer",
+        "Score": 75
+      },
+      {
+        "Subject": "History",
+        "Score": 95
+      },
+      {
+        "Subject": "Art",
+        "Score": 93
+      }
+    ]
+  },
+  {
+    "Id": "113",
+    "FirstName": "Youssef",
+    "LastName": "Atif",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 88
+      },
+      {
+        "Subject": "Physics",
+        "Score": 47
+      },
+      {
+        "Subject": "Computer",
+        "Score": 27
+      },
+      {
+        "Subject": "Geography",
+        "Score": 56
+      },
+      {
+        "Subject": "English",
+        "Score": 56
+      },
+      {
+        "Subject": "Math",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "114",
+    "FirstName": "Rami",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "Economics",
+        "Score": 82
+      },
+      {
+        "Subject": "History",
+        "Score": 45
+      },
+      {
+        "Subject": "Art",
+        "Score": 7
+      }
+    ]
+  },
+  {
+    "Id": "115",
+    "FirstName": "Ibrahim",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 82
+      },
+      {
+        "Subject": "Computer",
+        "Score": 81
+      },
+      {
+        "Subject": "PE",
+        "Score": 76
+      },
+      {
+        "Subject": "Biology",
+        "Score": 2
+      }
+    ]
+  },
+  {
+    "Id": "116",
+    "FirstName": "Mona",
+    "LastName": "Sabry",
+    "Grades": [
+      {
+        "Subject": "Biology",
+        "Score": 97
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 70
+      },
+      {
+        "Subject": "Music",
+        "Score": 26
+      },
+      {
+        "Subject": "PE",
+        "Score": 75
+      },
+      {
+        "Subject": "Physics",
+        "Score": 27
+      }
+    ]
+  },
+  {
+    "Id": "117",
+    "FirstName": "Youssef",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 35
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 18
+      },
+      {
+        "Subject": "Music",
+        "Score": 16
+      },
+      {
+        "Subject": "Math",
+        "Score": 69
+      }
+    ]
+  },
+  {
+    "Id": "118",
+    "FirstName": "Hassan",
+    "LastName": "Sabry",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 1
+      },
+      {
+        "Subject": "Economics",
+        "Score": 45
+      },
+      {
+        "Subject": "Math",
+        "Score": 100
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 30
+      }
+    ]
+  },
+  {
+    "Id": "119",
+    "FirstName": "Samir",
+    "LastName": "Mostafa",
+    "Grades": [
+      {
+        "Subject": "Chemistry",
+        "Score": 16
+      },
+      {
+        "Subject": "English",
+        "Score": 94
+      },
+      {
+        "Subject": "Math",
+        "Score": 53
+      }
+    ]
+  },
+  {
+    "Id": "120",
+    "FirstName": "Karim",
+    "LastName": "Said",
+    "Grades": [
+      {
+        "Subject": "Computer",
+        "Score": 65
+      },
+      {
+        "Subject": "PE",
+        "Score": 75
+      },
+      {
+        "Subject": "History",
+        "Score": 13
+      }
+    ]
+  },
+  {
+    "Id": "121",
+    "FirstName": "Tamer",
+    "LastName": "Sharif",
+    "Grades": [
+      {
+        "Subject": "Music",
+        "Score": 58
+      },
+      {
+        "Subject": "Math",
+        "Score": 82
+      },
+      {
+        "Subject": "Art",
+        "Score": 3
+      },
+      {
+        "Subject": "English",
+        "Score": 7
+      }
+    ]
+  },
+  {
+    "Id": "122",
+    "FirstName": "Nora",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "Geography",
+        "Score": 10
+      },
+      {
+        "Subject": "Economics",
+        "Score": 41
+      },
+      {
+        "Subject": "Physics",
+        "Score": 77
+      },
+      {
+        "Subject": "Computer",
+        "Score": 18
+      },
+      {
+        "Subject": "Art",
+        "Score": 8
+      },
+      {
+        "Subject": "Math",
+        "Score": 16
+      }
+    ]
+  },
+  {
+    "Id": "123",
+    "FirstName": "Hassan",
+    "LastName": "Taher",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 77
+      },
+      {
+        "Subject": "History",
+        "Score": 55
+      },
+      {
+        "Subject": "Geography",
+        "Score": 12
+      },
+      {
+        "Subject": "PE",
+        "Score": 89
+      },
+      {
+        "Subject": "English",
+        "Score": 14
+      },
+      {
+        "Subject": "Biology",
+        "Score": 83
+      },
+      {
+        "Subject": "Computer",
+        "Score": 83
+      }
+    ]
+  },
+  {
+    "Id": "124",
+    "FirstName": "Maha",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 58
+      },
+      {
+        "Subject": "Biology",
+        "Score": 51
+      },
+      {
+        "Subject": "Geography",
+        "Score": 53
+      },
+      {
+        "Subject": "Computer",
+        "Score": 93
+      },
+      {
+        "Subject": "Economics",
+        "Score": 12
+      },
+      {
+        "Subject": "Art",
+        "Score": 40
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 54
+      }
+    ]
+  },
+  {
+    "Id": "125",
+    "FirstName": "Khaled",
+    "LastName": "Fouad",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 10
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 11
+      },
+      {
+        "Subject": "Computer",
+        "Score": 55
+      },
+      {
+        "Subject": "Physics",
+        "Score": 12
+      },
+      {
+        "Subject": "Art",
+        "Score": 95
+      }
+    ]
+  },
+  {
+    "Id": "126",
+    "FirstName": "Adham",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 71
+      },
+      {
+        "Subject": "Math",
+        "Score": 42
+      },
+      {
+        "Subject": "Music",
+        "Score": 85
+      },
+      {
+        "Subject": "PE",
+        "Score": 15
+      }
+    ]
+  },
+  {
+    "Id": "127",
+    "FirstName": "Hana",
+    "LastName": "Khalil",
+    "Grades": [
+      {
+        "Subject": "PE",
+        "Score": 73
+      },
+      {
+        "Subject": "Math",
+        "Score": 64
+      },
+      {
+        "Subject": "English",
+        "Score": 27
+      },
+      {
+        "Subject": "Music",
+        "Score": 19
+      },
+      {
+        "Subject": "History",
+        "Score": 84
+      },
+      {
+        "Subject": "Economics",
+        "Score": 61
+      }
+    ]
+  },
+  {
+    "Id": "128",
+    "FirstName": "Nada",
+    "LastName": "Gamal",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 14
+      },
+      {
+        "Subject": "Art",
+        "Score": 97
+      },
+      {
+        "Subject": "PE",
+        "Score": 35
+      }
+    ]
+  },
+  {
+    "Id": "129",
+    "FirstName": "Samir",
+    "LastName": "Nagy",
+    "Grades": [
+      {
+        "Subject": "Art",
+        "Score": 84
+      },
+      {
+        "Subject": "Music",
+        "Score": 88
+      },
+      {
+        "Subject": "Economics",
+        "Score": 34
+      },
+      {
+        "Subject": "PE",
+        "Score": 3
+      },
+      {
+        "Subject": "Math",
+        "Score": 23
+      },
+      {
+        "Subject": "English",
+        "Score": 34
+      }
+    ]
+  },
+  {
+    "Id": "130",
+    "FirstName": "Salma",
+    "LastName": "Hussein",
+    "Grades": [
+      {
+        "Subject": "History",
+        "Score": 72
+      },
+      {
+        "Subject": "PE",
+        "Score": 84
+      },
+      {
+        "Subject": "Math",
+        "Score": 51
+      },
+      {
+        "Subject": "Chemistry",
+        "Score": 8
+      },
+      {
+        "Subject": "Art",
+        "Score": 18
+      }
+    ]
+  },
+  {
+    "Id": "131",
+    "FirstName": "Adham",
+    "LastName": "Zayed",
+    "Grades": [
+      {
+        "Subject": "Physics",
+        "Score": 48
+      },
+      {
+        "Subject": "Art",
+        "Score": 53
+      },
+      {
+        "Subject": "Biology",
+        "Score": 58
+      }
+    ]
+  },
+  {
+    "Id": "132",
+    "FirstName": "Khaled",
+    "LastName": "Kamel",
+    "Grades": [
+      {
+        "Subject": "English",
+        "Score": 19
+      },
+      {
+        "Subject": "History",
+        "Score": 20
+      },
+      {
+        "Subject": "Music",
+        "Score": 96
+      },
+      {
+        "Subject": "Physics",
+        "Score": 79
+      },
+      {
+        "Subject": "Math",
+        "Score": 6
+      }
+    ]
+  }
+]
