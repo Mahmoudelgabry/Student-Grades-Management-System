@@ -1,0 +1,32 @@
+<UserControl
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="StudentGradesUI.StudentCard"
+    Width="200" >
+
+    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+
+        <Border.Effect>
+            <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+        </Border.Effect>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <Border BorderBrush="Gray" BorderThickness="0,0,0,1" Margin="0,10,0,10"  Padding="0,0,0,5">
+                    <TextBlock Name="NameText" FontWeight="Bold" TextAlignment="Center" FontSize="15"/>
+                </Border>
+                <TextBlock Name="IdText" Margin="0,0,0,10"/>
+                <TextBlock Name="GradesText" Margin="0,0,0,10" LineHeight="20"/>
+            </StackPanel>
+
+            <Button Name="DetailsButton" Content="Show Details" Grid.Row="1" Width="160" Background="#000000" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+
+    </Border>
+
+</UserControl>

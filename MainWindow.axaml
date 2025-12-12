@@ -1,0 +1,147 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:StudentGradesUI"
+        xmlns:av="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls"
+        xmlns:media="clr-namespace:Avalonia.Media;assembly=Avalonia.Visuals"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"   
+        x:Class="StudentGradesUI.MainWindow"
+        WindowState="Maximized"    
+        Title="StudentGradesUI"
+        Background="#EBEBEB">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="10">
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="ViewerButton" Content="Viewer" Width="180" Height="50" CornerRadius="2" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#650108" Foreground="#f2e8d2"/>
+                <Border BorderBrush="#650108" BorderThickness="2" Margin="5" CornerRadius="2">
+                    <Button Name="AdminButton" Content="Admin" Width="180" Height="50" CornerRadius="2"  FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#f2e8d2" Foreground="#650108"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Name="ViewerPanal" IsVisible="False" Margin="50">
+                <Border BorderBrush="Gray" BorderThickness="1" Width="370" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+                    <Border.Effect>
+                        <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+                    </Border.Effect>
+                    <StackPanel>
+                        <TextBlock Text="Viewer Login" FontSize="20" TextAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                        <TextBox Name="ViewerEmail" Watermark="Email" Margin="0,5" Padding="8,12"/>
+                        <TextBox Name="ViewerPassword" Watermark="Password" Margin="0,5" Padding="8,12"/>
+                        <Button Name="ViewerLogin" Content="Login" Width="180" Background="#000000" Margin="0,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+                <TextBlock Name="ViewerLoginMsg" FontSize="20" TextAlignment="Center" Margin="0,20"/>
+            </StackPanel>
+
+            <StackPanel Name="AdminPanal" IsVisible="False" Margin="50">
+                <Border BorderBrush="Gray" BorderThickness="1" Width="370" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+                    <Border.Effect>
+                        <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+                    </Border.Effect>
+                    <StackPanel>
+                        <TextBlock Text="Admin Login" FontSize="20" TextAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                        <TextBox Name="AdminEmail" Watermark="Email" Margin="0,5" Padding="8,12"/>
+                        <TextBox Name="AdminPassword" Watermark="Password" Margin="0,5" Padding="8,12"/>
+                        <Button Name="AdminLogin" Content="Login" Width="180" Background="#000000" Margin="0,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+                <TextBlock Name="AdminLoginMsg" FontSize="20" TextAlignment="Center" Margin="0,20"/>
+            </StackPanel>
+
+            <StackPanel Name="LoggedPanal" IsVisible="False">
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                    <Button Name="ShowStudentsButton" Content="Show Students" Width="180" Height="50" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#73BFB8" Foreground="#000000"/>
+                    <Button Name="ShowClassButton" Content="Class Details" Width="180" Height="50" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#F25767" Foreground="#000000"/>
+                    <Button Name="AddStudentButton" IsVisible="False" Content="Add Student" Width="180" Height="50" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#3BA5D9" Foreground="#000000"/>
+                    <Button Name="UpdateStudentButton" IsVisible="False" Content="Update Student" Width="180" Height="50" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#F7AD19" Foreground="#000000"/>
+                    <Button Name="DeleteStudentButton" IsVisible="False" Content="Delete Student" Width="180" Height="50" Margin="5" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#ff0000" Foreground="#000000"/>
+                </StackPanel>
+
+                <StackPanel Name="StudentPanal" IsVisible="False" Margin="50">
+                    <TextBlock Text="Student List" FontSize="24" TextAlignment="Center" FontWeight="Bold" Margin="0,10,0,20"  Foreground="Black"/>
+                    <WrapPanel Name="StudentCards" HorizontalAlignment="Center" Orientation="Horizontal"/>
+                </StackPanel>
+
+                <Grid>
+                    <StackPanel Name="ClassPanal" IsVisible="False">
+                        <TextBlock Name="ClassDetails" FontSize="20" Margin="200" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" Foreground="#222222"/>
+                    </StackPanel>
+                </Grid>
+
+                <StackPanel Name="AddStudentPanal" IsVisible="False" Margin="50">
+                    <Border BorderBrush="Gray" BorderThickness="1" Width="370" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+                        </Border.Effect>
+                        <StackPanel>
+                            <TextBlock Text="Add Student" FontSize="20" TextAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                            <TextBox Name="AddStudentId" Watermark="Student ID" Margin="0,5" Padding="8,12"/>
+                            <TextBox Name="AddStudentFirstName" Watermark="First Name" Margin="0,5" Padding="8,12"/>
+                            <TextBox Name="AddStudentLastName" Watermark="Last Name" Margin="0,5" Padding="8,12"/>
+                            <Button Name="AddSubmit" Content="Submit" Width="180" Background="#000000" Margin="0,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+                    <TextBlock Name="AddStudentMsg" FontSize="20" TextAlignment="Center" Margin="0,20"/>
+                </StackPanel>
+
+                <StackPanel Name="UpdateStudentPanal" IsVisible="False" Margin="50,50,50,0">
+                    <Border BorderBrush="Gray" BorderThickness="1" Width="370" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+                        </Border.Effect>
+                        <StackPanel>
+                            <TextBlock Text="Update Student" FontSize="20" TextAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                            <TextBox Name="UpdateStudentId" Watermark="Enter the Student ID" Margin="0,5" Padding="8,12"/>
+                            <TextBox Name="UpdateStudentFirstName" Watermark="First Name" Margin="0,5" Padding="8,12" IsVisible="False"/>
+                            <TextBox Name="UpdateStudentLastName" Watermark="Last Name" Margin="0,5" Padding="8,12" IsVisible="False"/>
+
+                            <StackPanel Name="UpdateGrades" IsVisible="False">
+
+                                <StackPanel Orientation="Horizontal" Margin="0,15,0,5" VerticalAlignment="Center">
+                                    <TextBlock Text=" Add Grade :-" FontSize="15" FontWeight="Bold"/>
+                                    <TextBlock Text="(If you don't want , leave it empty )" FontSize="13"/>
+                                </StackPanel>
+                                <Grid ColumnDefinitions="4*,4*,2*">
+                                    <TextBox Name="SubjectName" Grid.Column="0" Watermark="Subject Name" Margin="3" Padding="8,12"/>
+                                    <TextBox Name="SubjectGrade" Grid.Column="1" Watermark="Subject Grade" Margin="3" Padding="8,12"/>
+                                    <Button Name="AddGrade" Grid.Column="2" Content="Add" Background="#000000" Width="60" Margin="3,3,0,3" Foreground="#ffffff" CornerRadius="5" Padding="8,12" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                                </Grid>
+
+                                <TextBlock Text="Grades :-" FontSize="15" FontWeight="Bold" Margin="0,15,0,5"/>
+                                <TextBlock Name="UpdateGradesText" Margin="0,5" LineHeight="20" />         
+                            </StackPanel>
+
+                            <Button Name="Updatebtn" Content="Update" Width="180" IsVisible="true" Background="#000000" Margin="0,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Name="CancleUpdatebtn" Content="Cancle" Width="140" IsVisible="false" Background="#ff0000" Margin="5,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                                <Button Name="SubmitUpdatebtn" Content="Submit" Width="140" IsVisible="false" Background="#000000" Margin="5,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                            </StackPanel>
+
+                        </StackPanel>
+                    </Border>
+                    <TextBlock Name="UpdateStudentMsg" FontSize="20" TextAlignment="Center" Margin="0,20"/>
+                </StackPanel>
+
+                <StackPanel Name="DeleteStudentPanal" IsVisible="False" Margin="50">
+                    <Border BorderBrush="Gray" BorderThickness="1" Width="370" CornerRadius="15" Padding="10" Margin="10" Background="#ffffff">
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="8" Opacity="0.5"/>
+                        </Border.Effect>
+                        <StackPanel>
+                            <TextBlock Text="Delete Student" FontSize="20" TextAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                            <TextBox Name="DeleteStudentId" Watermark="Student ID" Margin="0,5" Padding="8,12"/>
+                            <Button Name="DeleteSubmit" Content="Submit" Width="180" Background="#000000" Margin="0,15" Foreground="#ffffff" CornerRadius="15" Padding="10" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+                    <TextBlock Name="DeleteStudentMsg" FontSize="20" TextAlignment="Center" Margin="0,20"/>
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
